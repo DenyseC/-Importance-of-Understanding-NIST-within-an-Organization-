@@ -1,6 +1,6 @@
 -----------------------------------------------
-|   Importance of Understanding NIST within  |
-|             an Organization                |
+|   Importance of Understanding NIST within  
+|             an Organization                
 -----------------------------------------------
 
 Introduction:
